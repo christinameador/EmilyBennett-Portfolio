@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+/* Base Styles */
+
+:root {
+  --main-white: #FFFFFF;
+  --main-dusty-rose: #FF9595;
+  --main-dark-grey: #32354B;
+  --main-light-grey: #C6C6C6;
+}
