@@ -10,3 +10,25 @@
   --main-dark-grey: #32354B;
   --main-light-grey: #C6C6C6;
 }
+
+html,body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul {
+  list-style: none;
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+nav, li, a {
+  display: inline;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
