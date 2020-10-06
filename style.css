@@ -32,3 +32,15 @@ nav, li, a {
   padding: 14px 16px;
   text-decoration: none;
 }
+
+/* Cover Section */
+#cover-img {
+  background-color: #343358;
+}
+
+#cover-img img{
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  filter: grayscale(100%) brightness(55%) contrast(200%) blur(1px) opacity(50%);
+}
