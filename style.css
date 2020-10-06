@@ -52,7 +52,7 @@ nav, li, a {
   background-image:linear-gradient(to right, rgb(248, 143, 171), rgb(251, 147, 173) );
   text-align:center;
   margin-top:-500px;
-  font-family: 'Roboto', sans-serif;
+  font-family: sans-serif;
   color:white;
   
   font-size:34px;
