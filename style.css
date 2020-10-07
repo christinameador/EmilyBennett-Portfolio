@@ -16,6 +16,7 @@ html,body {
   height: 100%;
   margin: 0;
   padding: 0;
+  font-size: 16px;
 }
 
 nav ul {
@@ -55,21 +56,21 @@ nav, li, a {
   font-family: sans-serif;
   color:white;
   
-  font-size:34px;
-  
 }
 
 h1{
-  transform:scale(2,1)
+  font-size: 4em;
+  padding: .05em 1em;
 }
 
 #cover-des{
   z-index: 1;
   flex:100 1 0;
-  color:white;
-  font-size:34px;
-  
+  color:white; 
+  font-size: 2em;
+  font-family: 'Lora', serif;
 }
+
 
 
 
